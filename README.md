@@ -1,2 +1,3 @@
 # AO1_opim5512_nia18004
-A01 - completing first assignment
+
+This project is designed to practice basic GitHub workflows, including branching and pull requests, while performing a simple data visualization in Python. The analysis utilizes the California Housing dataset fetched directly from scikit-learn, which contains information regarding housing prices and various neighborhood characteristics in California. Ensure you have the required libraries, and then execute your script in the terminal with the command 'python src/boxplot.py'. After the script is run, a boxplot visual should be generated and saved into the file figs/boxplot.png. 
